@@ -2,4 +2,4 @@
  
 Name : นายอภิชา บุญแต่ง (Abhicha Boontang)
 Hobbies : เล่นเกมส์ (Valorant,FiFa) , ฟุตบอล , Snooker , ฟังเพลง
-Basic Skills : -Configuration -Computer Languge -Pentesting -Programing -Database
+Basic Skills : -Configuration -Computer Languge -Pentesting -Programming -Database
