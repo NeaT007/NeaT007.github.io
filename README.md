@@ -1,3 +1,5 @@
 # NeaT007.github.io
  
-Yo!! และนี่คือเสียงจากเด็กวัด
+Name : นายอภิชา บุญแต่ง (Abhicha Boontang)
+Hobbies : เล่นเกมส์ (Valorant,FiFa) , ฟุตบอล , Snooker , ฟังเพลง
+Basic Skills : -Configuration -Computer Languge -Pentesting -Programing -Database
